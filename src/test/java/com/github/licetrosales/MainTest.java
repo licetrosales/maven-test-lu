@@ -10,7 +10,7 @@ class MainTest {
     void when_1_add_1_then_return_2(){
         //GIVEN
         int a = 1;
-        int b = 1;
+        int b = 3;
 
         //WHEN
         int result = Main.sum(a, b);
